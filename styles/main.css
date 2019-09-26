@@ -1,0 +1,10 @@
+
+.inline {
+    display: flex;
+    flex-direction: row;
+}
+
+.margin {
+    margin-left: 0.25em;
+    margin-right: 0.25em;
+}
